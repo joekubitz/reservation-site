@@ -31,20 +31,21 @@ export default function Home() {
         We help creators grow their TikTok Live presence with real structure and support.
       </p>
 
-      <button
-        onClick={() => alert("Application form coming soon")}
-        style={{
-          backgroundColor: "#2563eb",
-          border: "none",
-          padding: "15px 30px",
-          fontSize: "18px",
-          borderRadius: "8px",
-          color: "white",
-          cursor: "pointer"
-        }}
-      >
-        Apply to Join
-      </button>
+  <a href="https://www.tiktok.com/t/ZMkXPvyy2/" target="_blank">
+  <button
+    style={{
+      backgroundColor: "#2563eb",
+      border: "none",
+      padding: "15px 30px",
+      fontSize: "18px",
+      borderRadius: "8px",
+      color: "white",
+      cursor: "pointer"
+    }}
+  >
+    Apply to Join
+  </button>
+</a>
 
       <p style={{
         marginTop: "40px",
