@@ -44,7 +44,7 @@ export default function RequirementsPage() {
           ]} />
 
           <Card title="2) Consistency" items={[
-            "Show up regularly (a schedule you can realistically maintain).",
+            "Go live for 12 days, and 24 hours.",
             "Communicate if life happens — we work with you when you communicate.",
           ]} />
 
@@ -58,9 +58,7 @@ export default function RequirementsPage() {
             "No pressure to spend money. Support can be time + energy.",
           ]} />
 
-          <Card title="5) Recruiting (if applicable)" items={[
-            "Recruit honestly — no false promises.",
-            "Focus on bringing in creators that fit the culture.",
+          <Card title="5) MUST live in the United States or Canada" items={[
           ]} />
         </div>
 
