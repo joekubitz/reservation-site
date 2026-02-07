@@ -232,8 +232,8 @@ export default function Home() {
           {[
             {
               quote:
-                "I finally got consistent and stopped feeling like I was doing Live alone. The structure helped me show up and grow.",
-              who: "Creator Name / @handle",
+                "Joining The Reservation gave me structure and consistency. My lives improved within weeks.",
+              who: "Mama Ruth — Creator",
             },
             {
               quote:
